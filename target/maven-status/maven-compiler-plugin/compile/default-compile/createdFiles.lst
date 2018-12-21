@@ -1,0 +1,4 @@
+com/flytxt/doorman/Doorman.class
+com/flytxt/doorman/camera/MultimediaStream.class
+com/flytxt/doorman/camera/videoCamera.class
+com/flytxt/doorman/util/FaceFinderUtility.class
